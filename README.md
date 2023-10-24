@@ -2,7 +2,7 @@
 
 ## This is the Markierungsstrategie
 
-- The function ´isHornSatisfiable(K*Phi: set of clauses)´ takes a set of \_Syntactic* clauses (as strings) and tells you if it is satisfiable or not, based on Horn Formulas.
+- The function ´isHornSatisfiable(K_Phi: set of clauses)´ takes a set of *Syntactic* clauses (as strings) and tells you if it is satisfiable or not, based on Horn Formulas.
 
 - you can make a set of logical clauses like so:
 
